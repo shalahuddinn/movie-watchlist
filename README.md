@@ -1,4 +1,4 @@
-# TMBD Movie Watchlist
+# TMDB Movie Watchlist
 
 ![Screenshot](screenshot.png)
 
